@@ -1,0 +1,16 @@
+Things to add
+1.) trail changing color// done 
+2.) make it so where vectors can control the current firework, and child fireworks 
+3.) shaders //to complicated
+4.) firework builder  class 
+5.) capitalize methods
+6.) when things change make it depend entirely on time and not on just how many frames passed 
+7.) make anything you can pass by reference to save memory 
+
+
+// list of things need to be modifyable  by vectors 
+	trail colors 
+	burst times 
+	destroy times 
+	velocities
+	size 
